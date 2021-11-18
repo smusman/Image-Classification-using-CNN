@@ -4,6 +4,6 @@
 1. Chest_xray
 2. Bird Species
 
-## Architechture
+## Architectures used
 1. VGG16
 2. Inception_v3
